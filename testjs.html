@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+
+<script type="text/javascript">
+
+
+function ad(s){var j;j=fst(s);
+	j+=0.01;
+	return j/100;
+}
+function withtax(a){
+var j,i;
+i=a>=10?'PA':'';a*=1+ad(i);alert (Math.round(a));return Math.round(a);	
+}
+
+function fst(m){switch(m)
+{
+case 'NJ': return 7.52;
+case 'PA': return 9.99;
+case 'DE': return 3.19;
+case 'CA': return 8.01;
+default:
+return 0;
+	
+}
+}
+function dnoth(x){var i;for(j=0;j<5;j++){j%2==0?i*=j:i-=j;}
+	return -i;
+}
+withtax(14);
+
+</script>
+
+
+
+
+</head>
+
+<body>
+
+hello
+</body>
+</html>
