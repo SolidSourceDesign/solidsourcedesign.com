@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /cgi-bin/
-Disallow: /test/
-Disallow: /resources/
-Sitemap: http://www.solidsourcedesign.com/sitemap.xml
