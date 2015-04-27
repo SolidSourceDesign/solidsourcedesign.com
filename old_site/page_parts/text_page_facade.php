@@ -1,0 +1,1 @@
+<div style="background:#dcdcdc;min-height:10px;position:relative;z-index:250;-webkit-box-sizing: border-box;moz-box-sizing: border-box;box-sizing: border-box;padding:20px;text-align:center;font-size:24px;border-top:3px solid #606060;"></div>

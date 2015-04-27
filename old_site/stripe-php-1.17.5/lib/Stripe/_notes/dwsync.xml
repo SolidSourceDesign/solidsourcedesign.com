@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Account.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746495600000000" Dst="2" />
+<file name="ApiConnectionError.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746495600000000" Dst="2" />
+<file name="ApiError.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746495600000000" Dst="2" />
+<file name="ApiRequestor.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746495600000000" Dst="2" />
+<file name="ApiResource.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746495600000000" Dst="2" />
+<file name="ApplicationFee.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746495600000000" Dst="2" />
+<file name="ApplicationFeeRefund.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746495600000000" Dst="2" />
+<file name="AttachedObject.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746495600000000" Dst="2" />
+<file name="AuthenticationError.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746495600000000" Dst="2" />
+<file name="Card.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Balance.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="BalanceTransaction.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Coupon.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="CardError.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Charge.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Customer.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Error.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Event.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="FileUpload.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="InvalidRequestError.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Invoice.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="InvoiceItem.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="List.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Object.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Plan.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="RateLimitError.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Recipient.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Refund.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="SingletonApiResource.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Stripe.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Subscription.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Token.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Transfer.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+<file name="Util.php" server="solidsourcedesign.com" local="130638203740000000" remote="130746496200000000" Dst="2" />
+</dwsync>
